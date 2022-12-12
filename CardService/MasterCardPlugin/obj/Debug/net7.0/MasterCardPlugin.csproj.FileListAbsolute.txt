@@ -1,0 +1,15 @@
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/bin/Debug/net7.0/MasterCardPlugin.deps.json
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/bin/Debug/net7.0/MasterCardPlugin.dll
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/bin/Debug/net7.0/MasterCardPlugin.pdb
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/bin/Debug/net7.0/CardPluginBase.dll
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/bin/Debug/net7.0/CardPluginBase.pdb
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/obj/Debug/net7.0/MasterCardPlugin.csproj.AssemblyReference.cache
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/obj/Debug/net7.0/MasterCardPlugin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/obj/Debug/net7.0/MasterCardPlugin.AssemblyInfoInputs.cache
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/obj/Debug/net7.0/MasterCardPlugin.AssemblyInfo.cs
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/obj/Debug/net7.0/MasterCardPlugin.csproj.CoreCompileInputs.cache
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/obj/Debug/net7.0/MasterCardPlugin.csproj.CopyComplete
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/obj/Debug/net7.0/MasterCardPlugin.dll
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/obj/Debug/net7.0/refint/MasterCardPlugin.dll
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/obj/Debug/net7.0/MasterCardPlugin.pdb
+/Users/anuvadivel/Space/TrialTemplate/CardService/MasterCardPlugin/obj/Debug/net7.0/ref/MasterCardPlugin.dll

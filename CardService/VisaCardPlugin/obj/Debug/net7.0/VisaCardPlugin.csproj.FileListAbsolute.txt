@@ -1,0 +1,15 @@
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/bin/Debug/net7.0/VisaCardPlugin.deps.json
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/bin/Debug/net7.0/VisaCardPlugin.dll
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/bin/Debug/net7.0/VisaCardPlugin.pdb
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/bin/Debug/net7.0/CardPluginBase.dll
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/bin/Debug/net7.0/CardPluginBase.pdb
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/obj/Debug/net7.0/VisaCardPlugin.csproj.AssemblyReference.cache
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/obj/Debug/net7.0/VisaCardPlugin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/obj/Debug/net7.0/VisaCardPlugin.AssemblyInfoInputs.cache
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/obj/Debug/net7.0/VisaCardPlugin.AssemblyInfo.cs
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/obj/Debug/net7.0/VisaCardPlugin.csproj.CoreCompileInputs.cache
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/obj/Debug/net7.0/VisaCardPlugin.csproj.CopyComplete
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/obj/Debug/net7.0/VisaCardPlugin.dll
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/obj/Debug/net7.0/refint/VisaCardPlugin.dll
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/obj/Debug/net7.0/VisaCardPlugin.pdb
+/Users/anuvadivel/Space/TrialTemplate/CardService/VisaCardPlugin/obj/Debug/net7.0/ref/VisaCardPlugin.dll

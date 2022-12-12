@@ -1,0 +1,12 @@
+/Users/anuvadivel/Space/TrialTemplate/CardService/CardPluginBase/bin/Debug/net7.0/CardPluginBase.deps.json
+/Users/anuvadivel/Space/TrialTemplate/CardService/CardPluginBase/bin/Debug/net7.0/CardPluginBase.dll
+/Users/anuvadivel/Space/TrialTemplate/CardService/CardPluginBase/bin/Debug/net7.0/CardPluginBase.pdb
+/Users/anuvadivel/Space/TrialTemplate/CardService/CardPluginBase/obj/Debug/net7.0/CardPluginBase.csproj.AssemblyReference.cache
+/Users/anuvadivel/Space/TrialTemplate/CardService/CardPluginBase/obj/Debug/net7.0/CardPluginBase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anuvadivel/Space/TrialTemplate/CardService/CardPluginBase/obj/Debug/net7.0/CardPluginBase.AssemblyInfoInputs.cache
+/Users/anuvadivel/Space/TrialTemplate/CardService/CardPluginBase/obj/Debug/net7.0/CardPluginBase.AssemblyInfo.cs
+/Users/anuvadivel/Space/TrialTemplate/CardService/CardPluginBase/obj/Debug/net7.0/CardPluginBase.csproj.CoreCompileInputs.cache
+/Users/anuvadivel/Space/TrialTemplate/CardService/CardPluginBase/obj/Debug/net7.0/CardPluginBase.dll
+/Users/anuvadivel/Space/TrialTemplate/CardService/CardPluginBase/obj/Debug/net7.0/refint/CardPluginBase.dll
+/Users/anuvadivel/Space/TrialTemplate/CardService/CardPluginBase/obj/Debug/net7.0/CardPluginBase.pdb
+/Users/anuvadivel/Space/TrialTemplate/CardService/CardPluginBase/obj/Debug/net7.0/ref/CardPluginBase.dll

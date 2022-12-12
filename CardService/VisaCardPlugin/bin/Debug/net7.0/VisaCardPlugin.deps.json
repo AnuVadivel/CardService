@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VisaCardPlugin/1.0.0": {
+        "dependencies": {
+          "CardPluginBase": "1.0.0"
+        },
+        "runtime": {
+          "VisaCardPlugin.dll": {}
+        }
+      },
+      "CardPluginBase/1.0.0": {
+        "runtime": {
+          "CardPluginBase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VisaCardPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CardPluginBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
