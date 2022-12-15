@@ -2,6 +2,8 @@
 using System.Reflection;
 using System.Runtime.Loader;
 using CardPluginBase;
+using Microsoft.Extensions.Logging;
+
 namespace CardService
 {
     public class Program
@@ -13,6 +15,12 @@ namespace CardService
         public static void Main(string[] args)
         {
             Console.WriteLine("Application Started");
+            
+            ILoggerFactory loggerFactory = LoggerFactory.Create(config => { });
+            ILogger<Program> logger = loggerFactory.CreateLogger<Program>();
+            
+            logger.LogInformation("Logging in Card Service");
+            
             LoadPlugins();
             foreach (var key in Plugins.Keys)
             {
